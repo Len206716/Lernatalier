@@ -1,28 +1,30 @@
-# Lern-Periode 2
-Name: Len Büchi
+## Reflexion zum heutigen Unterricht – Modul 117 (IMS)
 
+Heute habe ich im Modul 117 an den vorgegebenen Aufgaben gearbeitet. Zuerst habe ich mir einen Überblick über die Aufgaben verschafft und meine Unterlagen angeschaut. Danach habe ich selbstständig an den Aufgaben gearbeitet und versucht, die Inhalte zu verstehen.
 
+Während der Arbeit hatte ich teilweise Schwierigkeiten, gewisse Aufgaben direkt zu lösen. Ich habe mir Zeit genommen, die Aufgaben nochmals genau zu lesen und verschiedene Lösungswege auszuprobieren. Dadurch konnte ich einige Probleme selbst lösen. Wenn ich unsicher war, habe ich mir Notizen gemacht, damit ich später nachfragen kann.
 
-## Grob-Planung
-### Noten
-Ich bin geradeso genügend
+Insgesamt habe ich heute konzentriert gearbeitet und Fortschritte gemacht. Auch wenn ich nicht alle Aufgaben abschliessen konnte, habe ich ein besseres Verständnis für das Modul 117 bekommen. Ich weiss jetzt, woran ich weiterarbeiten muss.
 
-### Veränderungen
-mehr programiren
+---
 
-### Projekte / neue Technologien
-Verschidenen kleine Prijekte programiren
+## Ziele
 
-### Generelle Ziele
-Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
-Ziele für die lehrperiode
-Taschenrechner machen 
-und einen Kleins Viedeospiel
+**Heutige Ziele:**
 
-Feinplannung
-In der ersten Unterrichtsstunde beginnen wir mit einer kurzen Wiederholung des bisherigen Stoffes und führen anschließend das Spiel „Wörter-Pingpong“ durch. Dabei werfen sich die Lernenden Begriffe zu einem bestimmten Thema zu und müssen schnell passende Wörter finden. In der zweiten Stunde folgt das Spiel „Tabu Light“, bei dem die Schüler einen Begriff erklären müssen, ohne bestimmte Wörter zu verwenden – ideal zur Sprachförderung. In der dritten Stunde arbeiten die Lernenden in Gruppen und spielen „Puzzle-Staffel“, bei dem fachliche Inhalte als Puzzleteile sortiert werden. Die vierte Stunde enthält das Bewegungs-Quiz „Vier Ecken“, bei dem jede Ecke für eine Antwort steht. In der fünften Stunde schließen wir mit „Karten-Memory“ ab, bei dem Fachbegriffe und Definitionen zusammengebracht werden.
+* Die Aufgaben im Modul 117 verstehen
+* Selbstständig an den Aufgaben arbeiten
+* Schwierigkeiten erkennen und notieren
 
+**Ziele für die nächste Lektion:**
 
-Reflxion
-Ich habe in der letzen stunde Einen Taschen rechner proggramit ich hatte schwirikeiten bei dem herusfinden von dem code weil ich nicht wusste wie ich ihn schreiben kann ausserdem wusste ich nocht nicht alles und musste mir hilfe bei Chatgpt hollen weil ich nicht mehr weiter wusste. Er konnte mir es eklären so das ich es verstanden habe.
+* Die offenen Aufgaben weiterbearbeiten
+* Unklarheiten klären und Fragen stellen
+* Mindestens eine Aufgabe vollständig abschliessen
+* Konzentriert und strukturiert arbeiten
 
+---
+
+## Planung für die nächste Lektion
+
+In der nächsten Lektion möchte ich zuerst kurz wiederholen, was ich heute gemacht habe. Danach plane ich, die offenen Aufgaben weiterzubearbeiten und gezielt an den Punkten zu arbeiten, die mir noch schwerfallen. Falls ich Fragen habe, werde ich diese der Lehrperson stellen. Mein Ziel ist es, strukturierter zu arbeiten und mindestens eine Aufgabe vollständig abzuschliessen.
