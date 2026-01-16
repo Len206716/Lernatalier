@@ -63,20 +63,13 @@ Ziele
 Heutige Ziele (16.01.26):
 
 Die Aufgaben im Modul 164 verstehen
-
 Selbstständig an Programmieraufgaben arbeiten
-
 Eigene Fehler erkennen und daraus lernen
-
 Strukturierter und konzentrierter arbeiten
 
 Ziele für die nächste Lektion:
-
 Die offenen Aufgaben im Modul 164 weiterbearbeiten
-
 Unklarheiten gezielt klären und Fragen stellen
-
 Mindestens eine Aufgabe vollständig und korrekt abschliessen
-
 Sicherer im Programmieren werden
 
